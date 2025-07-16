@@ -121,7 +121,7 @@
 
 ## Screenshots
 - [Backup Console](screenshots/Backup Once-Successful!.png)
-- [Restored Folder](screenshots/restored-folder.png)
+- [SalesFolder](screenshots/SalesFolder-Mapped.png)
 - [Mapped Drive](screenshots/mapped-drive.png)
 - [PowerShell Output](screenshots/monitor-backup-output.png)
 
