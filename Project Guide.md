@@ -127,8 +127,6 @@
 - ![Backup-Console](screenshots/Windows-Server-Backup-Configuration.png)
 - [Permissions-Test](screenshots/verify%text%file%created%to%test%WRITE%permissions.png)
 
-## Acknowledgments
-- Collaborated with Grok 3, built by xAI, for expert guidance and assistance in completing this project.
-- Collaborated with Claude Sonnet 4, built by Anthropic, for expert guidance and assistance in completing this project.
+
     
 
