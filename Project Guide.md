@@ -121,11 +121,11 @@
 
 ## Screenshots
 - ![Backup Once](screenshots/Backup%20Once-Successful!.png) 
-- ![Sales-Folder](screenshots/SalesFolder%Mapped.png)
+- ![Sales-Folder](screenshots/SalesFolder-Mapped.png)
 - ![Task-Schedule](screenshots/Schedule-the-Script-Configured.png)
 - ![Script-Results](screenshots/TheScriptIsWorkingFine.png)
 - ![Backup-Console](screenshots/Windows-Server-Backup-Configuration.png)
-- [Permissions-Test](screenshots/verify%text%file%created%to%test%WRITE%permissions.png)
+- [Permissions-Test](screenshots/verify-text-file-created-to-test-WRITE-permissions.png)
 
 ## Acknowledgments
 - Collaborated with Grok 3, built by xAI, for expert guidance and assistance in completing this project.
