@@ -16,3 +16,7 @@ This project implements a backup and recovery solution using Windows Server Back
 - Renamed `SalesFolder` to `SalesFolder_Old` on FS-01.
 - Restored to `C:\SalesFolder` on DC-00, then copied to `SalesFolder_Old` on FS-01.
 - Mapped `Z:` and verified.
+
+## Acknowledgments
+- Collaborated with Grok 3, built by xAI, for expert guidance and assistance in completing this project.
+- Collaborated with Claude Sonnet 4, built by Anthropic, for expert guidance and assistance in completing this project.
