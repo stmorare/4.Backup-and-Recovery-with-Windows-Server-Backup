@@ -1,4 +1,4 @@
-# Backup and Recovery with Windows Server Backup Project
+# Backup and Recovery with Windows Server Backup
 
 ## Overview
 This project implements a backup and recovery solution using Windows Server Backup on DC-00 to protect `SalesFolder` on FS-01, testing recovery with a manual overwrite due to restore location issues.
