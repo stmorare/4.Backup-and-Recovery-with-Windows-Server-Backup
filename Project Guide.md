@@ -58,7 +58,7 @@
 
 ### Step 4: Automate Backup Status Checks
 1. **Create PowerShell Script on DC-00**:
-   - Save as `C:\Scripts\Monitor-Backup.ps1`: 
+   - Save as `C:\Scripts\Monitor-Backup.ps1` (see Monitor-Backup.ps1)
 
 2. **Schedule the Script**:
    - Open **Task Scheduler** > **Create Task**.
