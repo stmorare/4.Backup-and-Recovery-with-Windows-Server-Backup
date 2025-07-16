@@ -120,7 +120,7 @@
      ```
 
 ## Screenshots
-- [Backup Console](screenshots/backup-console.png)
+- [Backup Console](screenshots/Backup Once-Successful!.png)
 - [Restored Folder](screenshots/restored-folder.png)
 - [Mapped Drive](screenshots/mapped-drive.png)
 - [PowerShell Output](screenshots/monitor-backup-output.png)
