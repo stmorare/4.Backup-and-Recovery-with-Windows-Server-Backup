@@ -121,7 +121,7 @@
 
 ## Screenshots
 - ![Backup Once](screenshots/Backup%20Once-Successful!.png) 
-- ![Sales-Folder](screenshots/SalesFolder-Mapped.png)
+- ![Sales-Folder](screenshots/SalesFolder%Mapped.png)
 - ![Task-Schedule](screenshots/Schedule-the-Script-Configured.png)
 - ![Script-Results](screenshots/TheScriptIsWorkingFine.png)
 - ![Backup-Console](screenshots/Windows-Server-Backup-Configuration.png)
