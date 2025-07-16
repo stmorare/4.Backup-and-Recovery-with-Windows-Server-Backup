@@ -1,21 +1,22 @@
-**README.md**:
-     ```markdown
-     # Backup and Recovery with Windows Server Backup Project
+# Backup and Recovery with Windows Server Backup
 
-     ## Overview
-     This project implements a backup and recovery solution using Windows Server Backup on DC-00 to protect `SalesFolder` on FS-01,        testing recovery with a manual overwrite due to restore location issues.
+## Overview
+This project implements a backup and recovery solution using Windows Server Backup on DC-00 to protect `SalesFolder` on FS-01, testing recovery with a manual overwrite due to restore location issues.
 
-     ## Objectives
-     - Configured backup for `C:\SalesFolder` on DC-00.
-     - Simulated data loss by renaming to `SalesFolder_Old` on FS-01.
-     - Restored to DC-00, then manually copied to FS-01.
-     - Automated monitoring with PowerShell.
-     - Verified on the Windows 11 client.
+## Objectives
+- Configured backup for `C:\SalesFolder` on DC-00.
+- Simulated data loss by renaming to `SalesFolder_Old` on FS-01.
+- Restored to DC-00, then manually copied to FS-01.
+- Automated monitoring with PowerShell.
+- Verified on the Windows 11 client.
 
-     ## Steps
-     - Set up `SalesFolder` and `BackupShare` on FS-01.
-     - Backed up `C:\SalesFolder` on DC-00 to `\\FS-01\BackupShare`.
-     - Renamed `SalesFolder` to `SalesFolder_Old` on FS-01.
-     - Restored to `C:\SalesFolder` on DC-00, then copied to `SalesFolder_Old` on FS-01.
-     - Mapped `Z:` and verified.
-     ```
+## Steps
+- Set up `SalesFolder` and `BackupShare` on FS-01.
+- Backed up `C:\SalesFolder` on DC-00 to `\\FS-01\BackupShare`.
+- Renamed `SalesFolder` to `SalesFolder_Old` on FS-01.
+- Restored to `C:\SalesFolder` on DC-00, then copied to `SalesFolder_Old` on FS-01.
+- Mapped `Z:` and verified.
+
+## Acknowledgments
+- Collaborated with Grok 3, built by xAI, for expert guidance and assistance in completing this project.
+- Collaborated with Claude Sonnet 4, built by Anthropic, for expert guidance and assistance in completing this project.
