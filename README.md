@@ -441,10 +441,3 @@ Get-DfsrBacklogFileCount -GroupName "SalesReplication"
 - **📈 Performance optimization** with tiered storage solutions
 
 ---
-
-## 🙏 Acknowledgements
-
-- **🤖 Grok 3** (xAI) - Expert guidance and project assistance
-- **🧠 Claude Sonnet 4** (Anthropic) - Technical consultation and documentation support
-
----
